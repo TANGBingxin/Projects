@@ -1,0 +1,12 @@
+/Users/ice/Projects/Play.Common/src/Play.Common/bin/Release/net6.0/Play.Common.deps.json
+/Users/ice/Projects/Play.Common/src/Play.Common/bin/Release/net6.0/Play.Common.dll
+/Users/ice/Projects/Play.Common/src/Play.Common/bin/Release/net6.0/Play.Common.pdb
+/Users/ice/Projects/Play.Common/src/Play.Common/obj/Release/net6.0/Play.Common.csproj.AssemblyReference.cache
+/Users/ice/Projects/Play.Common/src/Play.Common/obj/Release/net6.0/Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ice/Projects/Play.Common/src/Play.Common/obj/Release/net6.0/Play.Common.AssemblyInfoInputs.cache
+/Users/ice/Projects/Play.Common/src/Play.Common/obj/Release/net6.0/Play.Common.AssemblyInfo.cs
+/Users/ice/Projects/Play.Common/src/Play.Common/obj/Release/net6.0/Play.Common.csproj.CoreCompileInputs.cache
+/Users/ice/Projects/Play.Common/src/Play.Common/obj/Release/net6.0/Play.Common.dll
+/Users/ice/Projects/Play.Common/src/Play.Common/obj/Release/net6.0/refint/Play.Common.dll
+/Users/ice/Projects/Play.Common/src/Play.Common/obj/Release/net6.0/Play.Common.pdb
+/Users/ice/Projects/Play.Common/src/Play.Common/obj/Release/net6.0/ref/Play.Common.dll

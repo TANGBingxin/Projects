@@ -1,0 +1,15 @@
+# 不排除这些文件夹
+!.gitignore
+!Play.Infra/
+!packages/
+!Play.Common/
+!Play.Catalog/
+!Play.Inventory/
+
+# 排除这些文件夹下的编译文件
+**/bin/
+**/obj/
+**/.vs/
+**/*.suo
+**/*.user
+**/*.cache

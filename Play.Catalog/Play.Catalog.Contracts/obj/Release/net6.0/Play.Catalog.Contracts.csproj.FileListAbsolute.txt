@@ -1,0 +1,11 @@
+/Users/ice/Projects/Play.Catalog/Play.Catalog.Contracts/bin/Release/net6.0/Play.Catalog.Contracts.deps.json
+/Users/ice/Projects/Play.Catalog/Play.Catalog.Contracts/bin/Release/net6.0/Play.Catalog.Contracts.dll
+/Users/ice/Projects/Play.Catalog/Play.Catalog.Contracts/bin/Release/net6.0/Play.Catalog.Contracts.pdb
+/Users/ice/Projects/Play.Catalog/Play.Catalog.Contracts/obj/Release/net6.0/Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ice/Projects/Play.Catalog/Play.Catalog.Contracts/obj/Release/net6.0/Play.Catalog.Contracts.AssemblyInfoInputs.cache
+/Users/ice/Projects/Play.Catalog/Play.Catalog.Contracts/obj/Release/net6.0/Play.Catalog.Contracts.AssemblyInfo.cs
+/Users/ice/Projects/Play.Catalog/Play.Catalog.Contracts/obj/Release/net6.0/Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+/Users/ice/Projects/Play.Catalog/Play.Catalog.Contracts/obj/Release/net6.0/Play.Catalog.Contracts.dll
+/Users/ice/Projects/Play.Catalog/Play.Catalog.Contracts/obj/Release/net6.0/refint/Play.Catalog.Contracts.dll
+/Users/ice/Projects/Play.Catalog/Play.Catalog.Contracts/obj/Release/net6.0/Play.Catalog.Contracts.pdb
+/Users/ice/Projects/Play.Catalog/Play.Catalog.Contracts/obj/Release/net6.0/ref/Play.Catalog.Contracts.dll

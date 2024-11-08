@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Play.Catalog.Service",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Play.Catalog.Service/Play.Catalog.Service.csproj",
+            "launchConfigurationId": "TargetFramework=;Play.Catalog.Service"
+        }
+    ]
+}
